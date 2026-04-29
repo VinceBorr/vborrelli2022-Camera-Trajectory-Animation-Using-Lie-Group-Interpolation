@@ -5,3 +5,6 @@
 https://youtube.com/shorts/052gTmpXGhA?feature=share
 
 I included audio element for added presentational flare.
+
+
+![VisualComparisonStrip](VisualComparisonStrip.png)
